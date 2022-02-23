@@ -11,5 +11,7 @@ Settings:
 Open - setting.py
 
 ID_BOX = #id box
+
 REQUESTS_NUMBER = #count of requests
+
 SALE_TIME = #unix sale time from here https://time.is/ru/Unix_time_converter
