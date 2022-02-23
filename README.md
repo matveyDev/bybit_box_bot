@@ -1,6 +1,7 @@
 Bybit mystery box bot
 
 Installation:
+
 pip install -r req.txt
 
 or
