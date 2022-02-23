@@ -2,7 +2,9 @@ Bybit mystery box bot
 
 Installation:
 pip install -r req.txt
+
 or
+
 pip3 install -r req.txt
 
 -----------------------
